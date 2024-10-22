@@ -1,4 +1,4 @@
-## 👋 Hello, my name is Huan Cláudio! And welcome to my profile
+## 👋 Olá, meu nome é Huan Cláudio! Seja bem vindo ao meu perfil
 
 <div style="display: flex; gap: 2px;"> <!-- ajuste o gap conforme necessário -->
   <a href="https://github.com/anuraghazra">
