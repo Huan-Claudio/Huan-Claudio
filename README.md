@@ -1,10 +1,8 @@
 ## 👋 Olá, meu nome é Huan Cláudio! Seja bem vindo ao meu perfil
 
 <div style="display: flex; gap: 2px;"> <!-- ajuste o gap conforme necessário -->
-  <a href="https://github.com/anuraghazra">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Huan-Claudio&show_icons=true&rank_icon=github&theme=tokyonight" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huan-Claudio&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </div>
